@@ -1,6 +1,6 @@
-### Hi there 👋
+# :man_technologist: Hi there 👋
 
-header 
+Hello! I'm Fabio, a Web developer, a javaScript, python enthusiast, and a guy slighty obsessed for code quality. I am also very responsible when doing projects. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.
 
 ## WELCOME TO MY PROFILE PAGE
 
