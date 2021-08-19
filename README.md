@@ -1,6 +1,6 @@
 # :man_technologist: **Hi there** 👋
 
-Hello! **_I'm Fabio_**, a Web developer, a javaScript, python enthusiast, and a guy slighty obsessed for code quality. I am also very responsible when doing projects. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.
+Hello! **_I'm Fabio_**, a Frontend Web developer, a javaScript, python enthusiast, and a guy slighty obsessed for code quality. I am also very responsible when doing projects. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.
 
 ## **WELCOME TO MY PROFILE PAGE**
 
@@ -12,7 +12,6 @@ Hello! **_I'm Fabio_**, a Web developer, a javaScript, python enthusiast, and a 
 ![PHP](https://img.shields.io/badge/-PHP-0E2447?style=for-the-badge&logo=php&logocolor=D1D6E0)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-0E2447?style=for-the-badge&logo=mySQL&logocolor=FFFFFF)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0E2447?style=for-the-badge&logo=HTML5&logocolor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0E2447?style=for-the-badge&logo=CSS3&logocolor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0E2447?style=for-the-badge&logo=CSS3&logocolor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angularjs-0E2447?style=for-the-badge&logo=angular&logocolor=white)&nbsp;
 ![REACT](https://img.shields.io/badge/-Reactjs-0E2447?style=for-the-badge&logo=react&logocolor=white)&nbsp;
@@ -27,8 +26,13 @@ Hello! **_I'm Fabio_**, a Web developer, a javaScript, python enthusiast, and a 
 ![GIT](https://img.shields.io/badge/-git-0E2447?style=for-the-badge&logo=git&logocolor=white)&nbsp;
 ![GITHUB](https://img.shields.io/badge/-Github-0E2447?style=for-the-badge&logo=github&logocolor=white)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0E2447?style=for-the-badge&logo=wordpress&logocolor=white)&nbsp;
-follow me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facesar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### **Connect with Me**
+
+<a href = 'https://twitter.com/FabioRostran'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a> 
+<a href = 'https://www.linkedin.com/feed/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
+<a href = 'https://spb.hh.ru/resume/45717c20ff05afb0a50039ed1f456d79513159'> <img width = '32px' align= 'center' src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019"/></a>
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facesar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
