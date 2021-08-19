@@ -2,7 +2,7 @@
 
 header 
 
-about me
+## WELCOME TO MY PROFILE PAGE
 
 latest youtube video
 
