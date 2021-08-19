@@ -3,6 +3,12 @@
 Hello! **_I'm Fabio_**, a Frontend Web developer, a javaScript, python enthusiast, and a guy slighty obsessed for code quality. I am also very responsible when doing projects. I’m currently available for any work. If you have a project that you want to get started or think you need my help with something, then get in touch.
 
 ## **WELCOME TO MY PROFILE PAGE**
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at rostranespinoza@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -27,7 +33,7 @@ Hello! **_I'm Fabio_**, a Frontend Web developer, a javaScript, python enthusias
 ![GITHUB](https://img.shields.io/badge/-Github-0E2447?style=for-the-badge&logo=github&logocolor=white)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0E2447?style=for-the-badge&logo=wordpress&logocolor=white)&nbsp;
 
-### **Connect with Me**
+### **🤝🏻 &nbsp;Connect with Me**
 
 <a href = 'https://twitter.com/FabioRostran'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a> 
 <a href = 'https://www.linkedin.com/feed/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
