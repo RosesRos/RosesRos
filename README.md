@@ -40,4 +40,4 @@ Hello! **_I'm Fabio_**, a Frontend Web developer, a javaScript, python enthusias
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facesar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
+<img align='center'  height="70" alt="Thanks" width="100%" src="assets/Thanks.svg"/> 
