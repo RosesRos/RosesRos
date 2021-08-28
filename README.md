@@ -1,6 +1,6 @@
 # :man_technologist: **Hi there** 👋
 
-Hello! **_I'm Fabio_**, a Frontend Web developer, a javaScript, python enthusiast, and a guy slighty obsessed for code quality. I am also very responsible when doing projects. I’m currently available for any work. If you have a project that you want to get started or think you need my help with something, then get in touch.
+Hello! **_I'm Fabio_**, a Frontend Developer, a javaScript, python enthusiast, and a guy slighty obsessed for code quality. I am also very responsible when doing projects. I’m currently available for any work. If you have a project that you want to get started or think you need my help with something, then get in touch.
 
 ## **WELCOME TO MY PROFILE PAGE**
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
