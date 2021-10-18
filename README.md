@@ -14,6 +14,7 @@ Hello! **I'm Fabio**, web developer JavaScript and Python, UX/UI Design. I am en
 ### **Languages and Tools**:
 ![JavaScript](https://img.shields.io/badge/-Javascript-0E2447?style=for-the-badge&logo=javascript&logocolor=6E8177)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0E2447?style=for-the-badge&logo=python&logocolor=D1D6E0)&nbsp;
+![TypeScript](https://img.shields.io/badge/-typescript-0E2447?style=for-the-badge&logo=typescript&logocolor=D1D6E0)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0E2447?style=for-the-badge&logo=php&logocolor=D1D6E0)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-0E2447?style=for-the-badge&logo=mySQL&logocolor=FFFFFF)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0E2447?style=for-the-badge&logo=HTML5&logocolor=white)&nbsp;
