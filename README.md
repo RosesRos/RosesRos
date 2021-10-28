@@ -1,6 +1,6 @@
 # :man_technologist: **Hi there** 👋
 
-Hello! **I'm Fabio**, web developer JavaScript and Python, UX/UI Design. I am enthusiastic about programming languages ​​and obsessed with the quality of the code. I am also very responsible when carrying out design work. I read literature, watch educational videos and constantly develop in the field of programming
+Hello! **I'm Fabio**, web developer JavaScript and PHP, UX/UI Design. I am enthusiastic about programming languages ​​and obsessed with the quality of the code. I am also very responsible when carrying out design work. I read literature, watch educational videos and constantly develop in the field of programming
 
 ## **WELCOME TO MY PROFILE PAGE**
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
