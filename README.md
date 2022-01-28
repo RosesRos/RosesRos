@@ -33,7 +33,6 @@ Hello! **I'm Fabio**, web developer JavaScript and PHP, UX/UI Design. I am enthu
 
 ### **🤝🏻 &nbsp;Connect with Me**
 
-<a href = 'https://twitter.com/FabioRostran'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a> 
 <a href = 'https://www.linkedin.com/feed/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
 <a href = 'https://spb.hh.ru/resume/45717c20ff05afb0a50039ed1f456d79513159'> <img width = '32px' align= 'center' src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019"/></a>
 
