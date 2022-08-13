@@ -30,6 +30,7 @@ Hello! **I'm Fabio**, web developer JavaScript and PHP. I am enthusiastic about 
 ![GIT](https://img.shields.io/badge/-git-0E2447?style=for-the-badge&logo=git&logocolor=white)&nbsp;
 ![GITHUB](https://img.shields.io/badge/-Github-0E2447?style=for-the-badge&logo=github&logocolor=white)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0E2447?style=for-the-badge&logo=wordpress&logocolor=white)&nbsp;
+![nodejs](https://img.shields.io/badge/-nodejs-0E2447?style=for-the-badge&logo=nodejs&logocolor=6E8177)&nbsp;
 
 ### **🤝🏻 &nbsp;Connect with Me**
 
