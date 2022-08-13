@@ -22,7 +22,7 @@ Hello! **I'm Fabio**, web developer JavaScript and PHP. I am enthusiastic about 
 ![REACT](https://img.shields.io/badge/-Reactjs-0E2447?style=for-the-badge&logo=react&logocolor=white)&nbsp;
 ![JQUERY](https://img.shields.io/badge/-JQuery-0E2447?style=for-the-badge&logo=jquery&logocolor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON_Api-0E2447?style=for-the-badge&logo=json&logocolor=white)&nbsp;
-![vueJS](https://img.shields.io/badge/-Vuejs-0E2447?style=for-the-badge&logo=vue&logocolor=white)&nbsp;
+![vueJS](https://img.shields.io/badge/-Vuejs-0E2447?style=for-the-badge&logo=Vue.js&logocolor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0E2447?style=for-the-badge&logo=bootstrap&logocolor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-0E2447?style=for-the-badge&logo=sass&logocolor=white)&nbsp;
 ![LESS](https://img.shields.io/badge/-LESS-0E2447?style=for-the-badge&logo=less&logocolor=white)&nbsp;
@@ -30,7 +30,7 @@ Hello! **I'm Fabio**, web developer JavaScript and PHP. I am enthusiastic about 
 ![GIT](https://img.shields.io/badge/-git-0E2447?style=for-the-badge&logo=git&logocolor=white)&nbsp;
 ![GITHUB](https://img.shields.io/badge/-Github-0E2447?style=for-the-badge&logo=github&logocolor=white)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0E2447?style=for-the-badge&logo=wordpress&logocolor=white)&nbsp;
-![nodejs](https://img.shields.io/badge/-nodejs-0E2447?style=for-the-badge&logo=node&logocolor=6E8177)&nbsp;
+![nodejs](https://img.shields.io/badge/-Nodejs-0E2447?style=for-the-badge&logo=Node.js&logocolor=6E8177)&nbsp;
 
 ### **🤝🏻 &nbsp;Connect with Me**
 
