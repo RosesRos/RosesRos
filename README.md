@@ -1,11 +1,9 @@
 # :man_technologist: **Hi there** 👋
 
-Hello! **I'm Fabio**, web developer JavaScript and PHP. I am enthusiastic about programming languages ​​and obsessed with the quality of the code. I am also very responsible when carrying out design work. I read literature, watch educational videos and constantly develop in the field of programming
+Hello! **I'm Fabio**, web developer JavaScript and PHP. I am enthusiastic about programming languages ​​and obsessed with the quality of the code. I am also very responsible when carrying out design work.
 
 ## **WELCOME TO MY PROFILE PAGE**
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Web development as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at rostranespinoza@gmail.com! I'll try to respond as soon as I can.\
 
