@@ -1,6 +1,6 @@
 # :man_technologist: **Hi there** 👋
 
-Hello! **I'm Fabio**, web developer JavaScript and PHP. I am enthusiastic about programming languages ​​and obsessed with the quality of the code. I am also very responsible when carrying out design work.
+Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about programming languages ​​and obsessed with the quality of the code. I am also very responsible when carrying out design work.
 
 ## **WELCOME TO MY PROFILE PAGE**
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
