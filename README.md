@@ -1,11 +1,8 @@
 # :man_technologist: **Hi there** 👋
 
-Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about programming languages ​​and obsessed with the quality of the code. I am also very responsible when carrying out design work.
+Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about programming languages ​​and obsessed with the quality of the code.
 
 ## **WELCOME TO MY PROFILE PAGE**
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rostranespinoza@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
