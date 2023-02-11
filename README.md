@@ -29,9 +29,6 @@ Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about progra
 
 ### **🤝🏻 &nbsp;Connect with Me**
 
-<a href = 'https://www.linkedin.com/feed/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
-<a href = 'https://spb.hh.ru/resume/45717c20ff05afb0a50039ed1f456d79513159'> <img width = '32px' align= 'center' src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019"/></a>
-
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facesar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="assets/Thanks.svg"/> 
