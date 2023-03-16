@@ -16,7 +16,7 @@ Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about progra
 ![Pug](https://img.shields.io/badge/-Pug-0E2447?style=for-the-badge&logo=pug&logocolor=white)&nbsp;
 ![REACT](https://img.shields.io/badge/-Reactjs-0E2447?style=for-the-badge&logo=react&logocolor=white)&nbsp;
 ![JQUERY](https://img.shields.io/badge/-JQuery-0E2447?style=for-the-badge&logo=jquery&logocolor=white)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON_Api-0E2447?style=for-the-badge&logo=json&logocolor=white)&nbsp;
+![JSON API](https://img.shields.io/badge/-JSON_Api-0E2447?style=for-the-badge&logo=json&logocolor=white)&nbsp;
 ![vueJS](https://img.shields.io/badge/-Vuejs-0E2447?style=for-the-badge&logo=Vue.js&logocolor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0E2447?style=for-the-badge&logo=bootstrap&logocolor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-0E2447?style=for-the-badge&logo=sass&logocolor=white)&nbsp;
@@ -26,6 +26,10 @@ Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about progra
 ![GITHUB](https://img.shields.io/badge/-Github-0E2447?style=for-the-badge&logo=github&logocolor=white)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0E2447?style=for-the-badge&logo=wordpress&logocolor=white)&nbsp;
 ![nodejs](https://img.shields.io/badge/-Nodejs-0E2447?style=for-the-badge&logo=Node.js&logocolor=6E8177)&nbsp;
+![COMPOSER](https://img.shields.io/badge/-composer-0E2447?style=for-the-badge&logo=Composer&logocolor=6E8177)&nbsp;
+![Smart](https://img.shields.io/badge/-smarty-0E2447?style=for-the-badge&logo=Smarty&logocolor=6E8177)&nbsp;
+
+
 
 ### **🤝🏻 &nbsp;Connect with Me**
 
