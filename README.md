@@ -14,7 +14,6 @@ Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about progra
 ![HTML](https://img.shields.io/badge/-HTML-0E2447?style=for-the-badge&logo=HTML5&logocolor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0E2447?style=for-the-badge&logo=CSS3&logocolor=white)&nbsp;
 ![Pug](https://img.shields.io/badge/-Pug-0E2447?style=for-the-badge&logo=pug&logocolor=white)&nbsp;
-![REACT](https://img.shields.io/badge/-Reactjs-0E2447?style=for-the-badge&logo=react&logocolor=white)&nbsp;
 ![JQUERY](https://img.shields.io/badge/-JQuery-0E2447?style=for-the-badge&logo=jquery&logocolor=white)&nbsp;
 ![JSON API](https://img.shields.io/badge/-JSON_Api-0E2447?style=for-the-badge&logo=json&logocolor=white)&nbsp;
 ![vueJS](https://img.shields.io/badge/-Vuejs-0E2447?style=for-the-badge&logo=Vue.js&logocolor=white)&nbsp;
