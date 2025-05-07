@@ -29,6 +29,8 @@ Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about progra
 ![COMPOSER](https://img.shields.io/badge/-composer-0E2447?style=for-the-badge&logo=Composer&logocolor=6E8177)&nbsp;
 ![Smart](https://img.shields.io/badge/-smarty-0E2447?style=for-the-badge&logo=Smarty&logocolor=6E8177)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0E2447?style=for-the-badge&logo=Laravel&logocolor=6E8177)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0E2447?style=for-the-badge&logo=Docker&logocolor=6E8177)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0E2447?style=for-the-badge&logo=Linux&logocolor=6E8177)&nbsp;
 
 
 
