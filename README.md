@@ -31,6 +31,7 @@ Hello! **I'm web developer**, JavaScript and PHP. I am enthusiastic about progra
 ![Laravel](https://img.shields.io/badge/-Laravel-0E2447?style=for-the-badge&logo=Laravel&logocolor=6E8177)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0E2447?style=for-the-badge&logo=Docker&logocolor=6E8177)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0E2447?style=for-the-badge&logo=Linux&logocolor=6E8177)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Linux-0E2447?style=for-the-badge&logo=MongoDB&logocolor=6E8177)&nbsp;
 
 
 
